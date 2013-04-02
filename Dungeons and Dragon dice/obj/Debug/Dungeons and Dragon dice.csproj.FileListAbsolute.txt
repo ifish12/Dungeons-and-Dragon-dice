@@ -1,0 +1,9 @@
+\\psf\Home\Desktop\Dungeons and Dragon dice\Dungeons and Dragon dice\bin\Debug\Dungeons and Dragon dice.exe.config
+\\psf\Home\Desktop\Dungeons and Dragon dice\Dungeons and Dragon dice\bin\Debug\Dungeons and Dragon dice.exe
+\\psf\Home\Desktop\Dungeons and Dragon dice\Dungeons and Dragon dice\bin\Debug\Dungeons and Dragon dice.pdb
+\\psf\Home\Desktop\Dungeons and Dragon dice\Dungeons and Dragon dice\obj\Debug\Dungeons and Dragon dice.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Dungeons and Dragon dice\Dungeons and Dragon dice\obj\Debug\Dungeons_and_Dragon_dice.Form1.resources
+\\psf\Home\Desktop\Dungeons and Dragon dice\Dungeons and Dragon dice\obj\Debug\Dungeons_and_Dragon_dice.Properties.Resources.resources
+\\psf\Home\Desktop\Dungeons and Dragon dice\Dungeons and Dragon dice\obj\Debug\Dungeons and Dragon dice.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\Dungeons and Dragon dice\Dungeons and Dragon dice\obj\Debug\Dungeons and Dragon dice.exe
+\\psf\Home\Desktop\Dungeons and Dragon dice\Dungeons and Dragon dice\obj\Debug\Dungeons and Dragon dice.pdb
